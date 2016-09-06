@@ -1,1 +1,1 @@
-# 学习 git rebase
+study git rebase
